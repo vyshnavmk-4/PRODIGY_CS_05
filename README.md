@@ -9,11 +9,11 @@ Features
 
 Installation
 Ensure scapy is installed. You can install it using pip:
-python your_script_name.py
+pip install scapy
 
 Usage
 Run the Script: Execute the script from the command line
-python your_script_name.py
+python packet sniffer.py
 Enter Network Interface: When prompted, enter the network interface you want to sniff on (e.g., eth0, wlan0).
 View Output: The script will start capturing packets and display the information in the console.
 
